@@ -14,7 +14,7 @@ from email.mime.multipart import MIMEMultipart
 # -----------------------------------
 st.set_page_config(page_title="Gmail Sender", page_icon="📧")
 
-st.title("📧 Gmail Bulk Sender")
+st.title("📧 Gmail Bulk Sender (Hammad)")
 
 # -----------------------------------
 # LOGIN INPUTS (NEW)
